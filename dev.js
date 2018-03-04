@@ -1,2 +1,2 @@
 console.log('dev.js');
-test5
+test6
